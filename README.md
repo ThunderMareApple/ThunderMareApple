@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThunderMareApple
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spigot Plugin
+- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : E-mail me at IDEA-cavy-0404@outlook.com
 
